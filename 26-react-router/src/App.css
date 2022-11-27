@@ -1,0 +1,108 @@
+.App {
+  text-align: center;
+}
+/* Вариант дефолтного использования класса для  NavLink без аттрибута className */
+/* .active {
+  color: #ffffe0;
+  text-decoration: none;
+} */
+
+.activeLink {
+  font-weight: 600;
+  color: #ffffe0;
+  text-decoration: none;
+}
+
+.link {
+  font-weight: 600;
+  color: #ff8c00;
+  text-decoration: dotted;
+}
+
+.courseLink {
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.courseLink:hover {
+  color: #ff8c00;
+  text-decoration: underline;
+}
+
+a {
+  font-size: 24px;
+  color: #6495ed;
+}
+
+nav {
+  background-color: #2f4f4f;
+  padding: 5px;
+  margin-bottom: 15px;
+}
+
+nav a {
+  margin: 15px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 20 0 20 0;
+}
+
+button {
+  width: 340px;
+  max-width: 100%;
+  cursor: pointer;
+  padding: 10px;
+  font-size: 30px;
+  border-radius: 5px;
+  border: 0;
+  margin: 25px;
+}
+
+form {
+  font-size: 30px;
+}
+
+input {
+  font-size: 20px;
+  margin: 15px;
+  padding: 10px;
+}
+
+label {
+  display: block;
+}
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 20 0 20 0;
+}
+
+button {
+  width: 340px;
+  max-width: 100%;
+  cursor: pointer;
+  padding: 10px;
+  font-size: 30px;
+  border-radius: 5px;
+  border: 0;
+  margin: 25px;
+}
+
+form {
+  font-size: 30px;
+}
+
+input {
+  font-size: 20px;
+  margin: 15px;
+  padding: 10px;
+}
+
+label {
+  display: block;
+}
